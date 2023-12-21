@@ -344,4 +344,18 @@ export default {
     details:"股票详情",
     stockTags:"股票标签",
   },
+  stockUser: {
+    status: 'Status',
+    username: 'Username',
+    nickname: 'Nickname',
+    password: 'Password',
+    description: 'Description',
+    homePath: 'HomePath',
+    mobile: 'Mobile',
+    email: 'Email',
+    avatar: 'Avatar',
+    addStockUser: '添加 StockUser',
+    editStockUser: '编辑 StockUser',
+    stockUserList: 'StockUser 列表',
+  },
 };

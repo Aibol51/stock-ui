@@ -339,4 +339,18 @@ export default {
     details:"Stock details",
     stockTags:"Stock Tags",
   },
+  stockUser: {
+    status: 'Status',
+    username: 'Username',
+    nickname: 'Nickname',
+    password: 'Password',
+    description: 'Description',
+    homePath: 'HomePath',
+    mobile: 'Mobile',
+    email: 'Email',
+    avatar: 'Avatar',
+    addStockUser: 'Add StockUser',
+    editStockUser: 'Edit StockUser',
+    stockUserList: 'StockUser List',
+  },
 };
